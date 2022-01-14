@@ -1,12 +1,19 @@
 body {
     background-color: lightgrey;
 }
-h2, p, a {
+h2, p, .readme-wrapper {
     text-align: center;
-    border-left: 1em;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    font-size: bold;
+    color: lime;
 }
 
 
-.boxes {
+.boxes  {
     font-family: dongle;
 }
