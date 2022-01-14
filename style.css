@@ -1,6 +1,6 @@
 body {
     background-color: lightgrey;
-    font-family: dongle;
+    font-family: 'dongle';
     font-weight: 300;
 
 }
@@ -16,12 +16,20 @@ a:hover {
     color: lime;
 }
 .boxes {
-    margin: 5em;
-    padding: 1em;
-    border: solid maroon;
-    border-radius: 5px;
-    border-width: 303m;
+    width: 25rem;
+    height: auto;
+   
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid maroon;
+    border-radius: 15px;
+    border-width: 1em;
+    background-color: mediumaquamarine;
+    box-sizing: border-box;
 }
+
+
+
 
 
 
