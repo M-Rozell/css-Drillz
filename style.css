@@ -1,5 +1,8 @@
 body {
     background-color: lightgrey;
+    font-family: dongle;
+    font-weight: 300;
+
 }
 h2, p, .readme-wrapper {
     text-align: center;
@@ -12,8 +15,14 @@ a:hover {
     font-size: bold;
     color: lime;
 }
-
-
-.boxes  {
-    font-family: dongle;
+.boxes {
+    margin: 5em;
+    padding: 1em;
+    border: solid maroon;
+    border-radius: 5px;
+    border-width: 303m;
 }
+
+
+
+
