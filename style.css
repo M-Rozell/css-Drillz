@@ -39,11 +39,55 @@ a:hover {
    left: 2rem;
     
 }
+
+h1 {
+    color: goldenrod;
+}
+
+.original {
+    color: indigo;
+}
+
+.additional  {
+    color: orangered;
+}
+
+#first {
+    color: green;
+}
+#second {
+    color: indianred;
+}
+#third {
+    color: lightblue;
+}
+#fourth {
+    color: royalblue;
+}
+#fifth {
+    color: slategrey;
+}
+
+ul {
+    color: tomato;
+}
+
+.star {
+    color: gold;
+}
+#wars {
+    color: green;
+}
+
+.list-divs {
+    border: 2px solid black;
+
+}
    
     
 
 
-}
+
 
 
 
